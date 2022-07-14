@@ -23,7 +23,7 @@ Going through the data further, we see that the Average Fare per Ride and Averag
 
 For the second deliverable, data from the beginning of January 2019 to the end of April 2019 was utilized to create a multiple-line chart. This would show by each city type the total fares within a given month:
 
-![Picture of Total Weekly Fare by City Type](analysis/Pyber_fare_summary.png)
+![Picture of Total Weekly Fare by City Type](analysis/PyBer_fare_summary.png)
 <sub>Total Fare by City Type</sub>
 
  From this chart we can see that the Urban city type has the highest fare total across the board and stays mostly within the $2000's to mid-$2000's. The Suburban city type has fares that stay middle of the pack and average between the Urban and Rural around the upper $1000's. The Rural city type has the lowest overall fares across every month, but there is a high point of $500 at the beginning of April. Other things to note is that near the end of February all of the city data types peak at most of their highest fare values. Furthermore, while the Urban and Rural fares dip at the end of April, the Suburban city type fares rises instead.
