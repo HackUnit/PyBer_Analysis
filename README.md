@@ -10,13 +10,13 @@ After this had been submitted, further analysis was requested in the form of a n
 ### PyBer Summary DataFrame
 
 The total number or rides, total number of drivers and the total fares for each city type was first calculated. Then, from this data further metrics were calculated in the form of average fare per ride and average fare per driver for each city type.
-A DataFrame was created to observe and analyze the differences further:
+A DataFrame was created from the calculated data to observe and analyze the differences further:
 
 ![Picture of Pyber Summary DataFrame](Resources/pyber_summary_df.png)
 <sub>Pyber Summary DataFrame</sub>
 
-From this DataFrame the first thing that sticks out is that the Urban Total Rides and Total Drivers is the overall highest out of the city data types, and the respective Rural city type has the lowest Total Rides and Total Drivers.
-This translates to Urban also having the highest Total fares, with Suburban being in the middle and Rural at the bottom.
+In this DataFrame the first thing that sticks out is that the Urban Total Rides and Total Drivers is the overall highest out of the city data types, and the respective Rural city type has the lowest Total Rides and Total Drivers.
+This translates to Urban also having the highest Total Fares, with Suburban being in the middle and Rural at the bottom.
 Going through the data further, we see that the Average Fare per Ride and Average Fare per Driver columns shows a higher average for Rural city types versus the Urban city type which has the lowest averages. In the case of the Average Fare per Driver the difference is roughly 3 times between the $55.49 in the Rural city type and the $16.57 of the Urban city type.
 
 ### Total Weekly Fares of each City Type.
